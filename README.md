@@ -20,26 +20,17 @@ Saya adalah lulusan Statistika yang suka belajar hal baru di bidang data, machin
 
 ---
 
-## Snake Game
+## Tetris Game
 
-![GitHub Snake](https://github.com/Najwa-porto/Najwa-porto/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://harshgoel05.github.io/tetris-readme/">
+    <img src="https://github.com/harshgoel05/tetris-readme/raw/main/tetris.svg" alt="Tetris Game" width="400"/>
+  </a>
+  <br>
+  <sub>Klik gambar untuk main Tetris di browser!</sub>
+</p>
 
 ---
 
 ## Let's Connect!
-Email: najwaqilh@gmail.com## Hi there 👋
-
-<!--
-**Najwa-porto/Najwa-porto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: najwaqilh@gmail.com
