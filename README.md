@@ -2,7 +2,7 @@
 
 🎓 Statistics Graduate  
 📊 I love turning data into actionable insights  
-💻 Python | R | SQL | Tableau  
+💻 Python | R | SQL | SAS | Minitab 
 🔍 Interested in Data Science, Machine Learning, and Visualization  
 🌏 Based in Indonesia  
 
